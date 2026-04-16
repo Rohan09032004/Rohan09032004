@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rohan-aggarwal09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-aggarwal09" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/its_rsr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="its_rsr" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rohanaggarwal090204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohanaggarwal090204" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/rohanaggarwal090204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohanaggarwal090204" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/rohanaggarlmjf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohanaggarlmjf" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rohan-aggarwal09/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-aggarwal09" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/its_rsr" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="its_rsr" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/rohanaggarwal090204" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohanaggarwal090204" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/rohanaggarwal090204/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohanaggarwal090204" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/rohanaggarlmjf/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohanaggarlmjf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
